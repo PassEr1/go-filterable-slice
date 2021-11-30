@@ -1,3 +1,3 @@
-module github.com/PassEr1/go-filterable-slice/v0.1
+module github.com/PassEr1/go-filterable-slice
 
 go 1.16
